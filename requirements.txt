@@ -8,6 +8,7 @@ hachoir
 heroku3
 lyricsgenius
 motor
+speedtest-cli
 pillow
 psutil
 py-tgcalls==0.8.6
